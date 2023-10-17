@@ -1,4 +1,4 @@
 ## 團隊成員
 
--Santu
--Minnie
+- Santu
+- Minnie
